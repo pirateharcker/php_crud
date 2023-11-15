@@ -1,0 +1,1 @@
+<img src="images/<?php echo $_GET['detail'] ?>" width="200px" height="200px" >
